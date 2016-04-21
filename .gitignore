@@ -1,0 +1,10 @@
+/Library
+/Temp
+/[Oo]bj
+
+# Autogenerate solution and project files
+*.csproj
+
+# Builds
+*.apk
+*.unitypackage
